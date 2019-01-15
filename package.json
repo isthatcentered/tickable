@@ -8,7 +8,16 @@
     "scripts": {
         "build": "yarn rollup -c"
     },
-    "keywords": [],
+    "keywords": [
+        "react",
+        "testing",
+        "async",
+        "asynchronous",
+        "promise",
+        "nextTick",
+        "process",
+        "resolve"
+    ],
     "author": "Edouard Penin <e.peninb@gmail.com>",
     "license": "ISC",
     "devDependencies": {
