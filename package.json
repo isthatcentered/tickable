@@ -1,0 +1,29 @@
+{
+    "name": "@isthatcentered/tickable",
+    "version": "0.0.1&beta",
+    "description": "",
+    "main": "dist/index.js",
+    "module": "dist/index.es.js",
+    "types": "dist/index.d.ts",
+    "scripts": {
+        "build": "yarn rollup -c"
+    },
+    "keywords": [],
+    "author": "Edouard Penin <e.peninb@gmail.com>",
+    "license": "ISC",
+    "devDependencies": {
+        "@babel/core": "^7.2.2",
+        "@babel/preset-env": "^7.2.3",
+        "rollup-plugin-babel": "^4.3.0",
+        "rollup-plugin-node-resolve": "^4.0.0",
+        "rollup": "^1.1.0",
+        "@babel/cli": "^7.2.0",
+        "@babel/polyfill": "^7.0.0",
+        "@babel/preset-typescript": "^7.1.0",
+        "@types/jest": "^23.3.9",
+        "doctoc": "^1.4.0",
+        "rollup-plugin-typescript2": "^0.18.1",
+        "typescript": "^3.2.2"
+    },
+    "dependencies": {}
+}
