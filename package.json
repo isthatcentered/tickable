@@ -25,5 +25,9 @@
         "rollup-plugin-typescript2": "^0.18.1",
         "typescript": "^3.2.2"
     },
-    "dependencies": {}
+    "dependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/isthatcentered/tickable.git"
+    },
 }
